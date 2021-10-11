@@ -1,0 +1,17 @@
+#select2,
+#select1 {
+  display: inline;
+  font-weight: normal;
+  margin-right: 5px;
+  margin-left: 10px;
+}
+
+.arrow {
+  display: inline;
+  font-weight: bold;
+  margin: 0px 10px 0px 10px;
+}
+
+* {
+  text-align: center;
+}
